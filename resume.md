@@ -53,7 +53,7 @@ Summary of your role
 [University 3]: https://uceap.universityofcalifornia.edu/programs/national-autonomous-university-mexico
 
 ### Extra Info
-```
+
 The content of htis resume is mostly made up information. This markdown file was made for the Geography 458 course.
 > The Requirements are:
 > > Different levels of headers; (There are large, second largest, and third largest headings)
@@ -61,4 +61,3 @@ The content of htis resume is mostly made up information. This markdown file was
 > > Several url links; (Links to the University pages)
 > > One or several images; and (Monkey Image at the top)
 > > A list; (Summary of roles)
-```
