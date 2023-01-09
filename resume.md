@@ -54,7 +54,7 @@ Summary of your role
 
 ### Extra Info
 
-The content of htis resume is mostly made up information. This markdown file was made for the Geography 458 course.
+The content of this resume is mostly made up information. This markdown file was made for the Geography 458 course.
 > The Requirements are:
 > > - Different levels of headers; (There are large, second largest, and third largest headings)
 > > - A block quote; (this block)

@@ -87,6 +87,8 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  display: flex;
+  justify-content: center;
 }
 
 hr {
@@ -119,6 +121,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
+  color: orange;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -11287,6 +11290,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background-color: greenyellow;
   background-size: cover;
 }
